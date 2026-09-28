@@ -1,0 +1,17 @@
+CREATE DATABASE EcommerceDW;
+GO
+
+USE EcommerceDW;
+GO
+
+CREATE SCHEMA bronze;
+GO
+
+CREATE SCHEMA silver;
+GO
+
+CREATE SCHEMA gold;
+GO
+
+CREATE SCHEMA etl;
+GO
