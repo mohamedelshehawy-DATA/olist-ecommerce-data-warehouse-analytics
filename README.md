@@ -335,10 +335,9 @@ The report includes interactive filters for:
 
 ## 🖥️ Dashboard Preview
 
-The complete Power BI dashboard is available here:
+![Olist E-Commerce Analytics Dashboard](./dashboard-preview.png)
 
 [View the Power BI Dashboard PDF](./e-commerce%20dashboard.pdf)
-
 ---
 
 ## 📁 Repository Structure
